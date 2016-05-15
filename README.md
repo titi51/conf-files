@@ -1,0 +1,1 @@
+Petit depot pour sauvegarder divers fichiers de config, principalement des .conf nginx, des script demarrage/arrêt dans /etc/init.d et des fichiers de config d'applications.
